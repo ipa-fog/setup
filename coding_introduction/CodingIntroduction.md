@@ -683,7 +683,7 @@ Once you've checked the above, you are ready to create the PR (check the
    students of the group 323) or your private section on `saturn` which is the same as your IPA username, i.e. `<USER>`.
    Note, that this private section cannot be accessed by anyone else, so don't store any important data from your
    work there!
-4. Enter your password
+4. Enter your password, Domain = "IPA"
 5. Optional: right click on the new entry under Network, "Add Bookmark"
 
 
